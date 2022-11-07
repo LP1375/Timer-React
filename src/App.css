@@ -1,0 +1,61 @@
+.App {
+  text-align: center;
+}
+h1 {
+  margin-bottom: 100px;
+}
+
+.container {
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 100px;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-between;
+}
+
+.btnStart {
+  height: 70px;
+  width: 40%;
+  font-size: 25px;
+  background-color: limegreen;
+  border: none;
+}
+
+.btnStop {
+  height: 70px;
+  width: 40%;
+  font-size: 25px;
+  background-color: crimson;
+  border: none;
+}
+
+.btnReset {
+  height: 70px;
+  width: 40%;
+  font-size: 25px;
+  background-color: darkslategrey;
+  border: none;
+}
+
+.btnReset:active {
+  height: 70px;
+  width: 40%;
+  font-size: 25px;
+  background-color: black;
+  color: white;
+  border: none;
+}
+
+.tim {
+  font-size: 50px;
+}
+
+.timer {
+  margin-bottom: 100px;
+
+}
+
+
